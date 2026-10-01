@@ -9,7 +9,6 @@
       "description": "public repo, hill-climb-racing",
       "mandatory": true,
       "status": "pending",
-      "evidenceType": "custom",
       "acceptanceCriteria": "Concrete implementation evidence is recorded and the outcome matches the user request."
     }
   ],
@@ -25,5 +24,5 @@
   "permissions": [],
   "deferredItems": [],
   "createdAt": 1790855741358,
-  "updatedAt": 1790855741360
+  "updatedAt": 1790856709381
 }
