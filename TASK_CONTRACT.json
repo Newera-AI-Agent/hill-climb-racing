@@ -1,0 +1,29 @@
+{
+  "originalRequest": "public repo, hill-climb-racing",
+  "normalizedInterpretation": "public repo, hill-climb-racing",
+  "assumptions": [],
+  "profile": "fast",
+  "requirements": [
+    {
+      "id": "REQ-001",
+      "description": "public repo, hill-climb-racing",
+      "mandatory": true,
+      "status": "pending",
+      "evidenceType": "custom",
+      "acceptanceCriteria": "Concrete implementation evidence is recorded and the outcome matches the user request."
+    }
+  ],
+  "featureMatrix": [
+    "public repo, hill-climb-racing"
+  ],
+  "contentMatrix": [],
+  "assetManifest": [],
+  "audioManifest": [],
+  "testMatrix": [],
+  "artifactMatrix": [],
+  "platformRequirements": [],
+  "permissions": [],
+  "deferredItems": [],
+  "createdAt": 1790855741358,
+  "updatedAt": 1790855741360
+}
